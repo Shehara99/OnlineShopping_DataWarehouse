@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Online_Shopping", "Online_Shopping\Online_Shopping.dtproj", "{2B683485-BEFF-44AC-9FC1-F2B42062ED20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B683485-BEFF-44AC-9FC1-F2B42062ED20}.Development|Default.ActiveCfg = Development
+		{2B683485-BEFF-44AC-9FC1-F2B42062ED20}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD63C7D-F2F0-46D4-91C9-57A562AF7594}
+	EndGlobalSection
+EndGlobal
